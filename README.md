@@ -8,7 +8,7 @@ Welcome to the Mid-Journey-Personal Assistant bot! This is a personal assistant 
 
 To get started with the bot, follow these steps:
 
-
+1. Clone the repository to your local machine using `https://github.com/Hasnainzxc/Mid-Journey-Personal-Assistant-bot.git`.
 
 2. Install the required dependencies by running `npm install`.
 
