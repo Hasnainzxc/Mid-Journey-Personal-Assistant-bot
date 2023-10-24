@@ -31,5 +31,4 @@ For a full list of available commands and their usage, see the bot's help comman
 
 ## Contributing
 
-If you'd like to contribute to the bot, feel free to submit a pull request or open an issue on the repository. We're always happy to receive feedback and contributions from our users! 😃
 
